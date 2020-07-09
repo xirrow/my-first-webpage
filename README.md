@@ -1,6 +1,6 @@
 # My First Webpage
 
-#### Basic webpage following course work for Epicodus, Thursday Juky 9th 2020
+#### Basic webpage following course work for Epicodus, Thursday July 9th 2020
 
 #### By Zack Worrix
 
